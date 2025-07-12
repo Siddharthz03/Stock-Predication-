@@ -4,7 +4,7 @@ import mysql.connector
 import google.generativeai as genai
 
 # ✅ Set Gemini API Key
-genai.configure(api_key="AIzaSyD2FQcuLrFUNEC49mgFgc-z6D8HvdGUzw0")
+genai.configure(api_key="Your_API_Key")
 
 # ✅ MySQL connection
 try:
